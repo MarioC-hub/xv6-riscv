@@ -3,7 +3,7 @@
 #include "user/user.h"
 
 
-int main(int argc, void *argv) {
+int main(int argc, void *argv[]) {
 	printf("Hello!\n");
 
 	return 0;
